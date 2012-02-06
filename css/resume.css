@@ -1,0 +1,50 @@
+body {
+	position: relative;
+	padding: 45px 0;
+}
+
+section {
+	padding: 18px 0 0;
+}
+
+footer {
+	padding-top: 17px;
+	border-top: 1px solid #EEE;
+	margin: 18px 0;
+}
+
+footer p {
+	margin-bottom: 0;
+}
+
+.title h1 {
+	letter-spacing: -2px;
+	font-size: 45px;
+}
+
+.title h1 small {
+	letter-spacing: 0;
+}
+
+.title p {
+	margin-bottom: 18px;
+	font-weight: 300;
+}
+
+.btn {
+	font-weight: bold;
+}
+
+[class^="icon-"] {
+	margin-right: 5px;
+}
+
+.icon-github {
+	background-image: url(../img/github-icons.png);
+	background-position: 0 0;
+}
+
+.icon-twitter {
+	background-image: url(../img/twitter-btn.png);
+	background-position: 0 2px;
+}
