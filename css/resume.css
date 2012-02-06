@@ -17,6 +17,10 @@ footer p {
 	margin-bottom: 0;
 }
 
+h3 {
+	margin-bottom: 9px;
+}
+
 .title h1 {
 	letter-spacing: -2px;
 	font-size: 45px;
